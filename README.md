@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Chris
 
-## I am a first degree in computer science, with a specialisation in programming. As a
-programmer, I specialise in web and mobile technologies.
+## I am a first degree in computer science, with a specialisation in programming. As a programmer, I specialise in web and mobile technologies.
 
 - ⚒️ I’m currently working on [PKS Mobile](https://github.com/Zvolinsky/PKSMobile)
 - 📚 I’m currently learning **Python** - **Scikit-learn** & **TensorFlow**
