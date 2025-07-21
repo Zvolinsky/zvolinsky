@@ -2,7 +2,7 @@
 
 ## I am a first degree in computer science, with a specialisation in programming. As a programmer, I specialise in web and mobile technologies.
 
-- ⚒️ I’m currently working on [PKS Mobile](https://github.com/Zvolinsky/PKSMobile)
+- ⚒️ I’m currently working on [PKS Mobile](https://github.com/Zvolinsky/pks-mobile)
 - 📚 I’m currently learning **Python** - **Scikit-learn** & **TensorFlow**
 - 💬 Ask me about: React.js, React Native, HTML/CSS/JS, ASP.NET Core
 - 📫 How to reach me at:
