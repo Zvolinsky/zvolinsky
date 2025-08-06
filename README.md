@@ -8,7 +8,7 @@
 - 📫 How to reach me at:
   - e-mail: zwolinski.krzysztof.t@gmail.com
   - LinkedIn: linkedin.com/in/zwolinski-krzysztof
-- 💿 **Optionally**, you can check out my [weird music](www.soundcloud.com/kh-jazzyman) that no one would want to listen to, enjoy your stay!
+- 💿 **Optionally**, you can check out my [weird music](https://soundcloud.com/kh-jazzyman) that no one would want to listen to, enjoy your stay!
 
 ## Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,dotnet,html,css,js,postgres,mongodb,express,jest,git,vscode,visualstudio,webstorm,)](https://skillicons.dev)
